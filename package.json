@@ -1,0 +1,33 @@
+{
+  "name": "digital-projections-titan-highlight-series",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "manufacturer": "Digital Projection",
+  "product": [
+    "HIGHlite 660 3D",
+    "HIGHlite Laser 3D",
+    "HIGHlite 8000",
+    "Lightning",
+    "Mercury 930",
+    "M-Vision 930",
+    "Titan LED 330",
+    "Titan LED 660",
+    "Titan LED 800",
+    "Titan LED 930",
+    "Titan Quad Series"
+  ],
+  "keywords": [
+    "Projector"
+  ],
+  "shortname": "DP Projector",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "projector",
+    "video"
+  ],
+  "author": "Matt Foulks <mfoulks1@gmail.com>",
+  "license": "ISC"
+}
