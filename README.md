@@ -1,1 +1,2 @@
-digital-projections-titan-highlight-series
+# companion-module-digital-projection
+See HELP.md and LICENSE
